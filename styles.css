@@ -1,0 +1,50 @@
+#title, p, figcaption, #tribute-info {
+    text-align: center;
+}
+#main {
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+}
+p, figcaption {
+    font-size: 0.75rem;
+    padding: 0.25rem;
+}
+#img-div {
+    background: #fff;
+    padding: 0.5rem;
+    padding-top: 1rem;
+    margin: 0;
+}
+img {
+    display: block;
+}
+#image {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+#img-caption {
+    margin: 15px 0 5px 0;
+}
+ul {
+    list-style-type: none;
+    padding: .5rem;
+    margin: auto;
+    font-size: 0.6rem;
+}
+li {
+    margin: 0 1.5rem;
+}
+#quote {
+    background: #fff;
+    padding: 10px;
+    margin: 0;
+    border-radius: 10px;
+    padding-top: 1.25rem;
+}
+cite {
+    display: block;
+    padding:10px;
+}
